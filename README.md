@@ -1,0 +1,1 @@
+Le projet consiste à créer en python un bot pour discord qui s'authentifera et qui controlera des données.
